@@ -20,7 +20,7 @@ const Header = () => {
             justifyContent: "space-between",
           }}
         >
-          <Typography variant="h5">SM Portfoliyo</Typography>
+          <Typography variant="h5">SM</Typography>
           <Box
             sx={{
               display: { xs: "block", sm: "none" },
